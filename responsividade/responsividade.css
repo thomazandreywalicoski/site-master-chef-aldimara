@@ -1,0 +1,837 @@
+@media (max-width: 865px) {
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-informacao-title {
+        font-size: 1.58rem;
+    }
+}
+
+@media (max-width: 840px) {
+
+    /* MENU */
+
+    .menu-logo-img {
+        width: 80px;
+    }
+
+    .menu-logo-text {
+        font-size: .9rem;
+    }
+
+    .nav-link {
+        font-size: .9rem;
+        margin: 15px;
+    }
+
+    .btn-contato {
+        font-size: .9rem;
+    }
+    
+    /* INÍCIO */
+
+
+    /* RECEITAS */
+
+    .receitas-title {
+        font-size: 5rem;
+    }
+
+    .receitas-card {
+        width: 220px;
+        height: 300px;
+    }
+
+    .receitas-card img {
+        width: 100%;
+        height: 140px;
+    }
+
+    .receitas-card-horario {
+        font-size: .7rem;
+    }
+
+    .receitas-card-title {
+        font-size: 1.5rem;
+    }
+
+    .receitas-card-text {
+        font-size: .5rem;
+    }
+
+    .receitas-card-buttom {
+        font-size: .7rem;
+    }
+
+    .receitas-btn {
+        padding-top: 70px;
+    }
+
+    .receitas-btn a {
+        font-size: 1rem;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem-somos-title {
+        font-size: 5rem;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-title {
+        font-size: 5rem;
+    }
+
+    .avaliacoes-card {
+        width: 220px;
+        height: 260px;
+    }
+
+    .avaliacoes-card-title {
+        padding: 50px 0px 10px 0px;
+    }
+
+    .avaliacoes-card-perfil {
+        width: 110px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .avaliacoes-card-perfil img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .avaliacoes-card-name {
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+    .avaliacoes-card-comentario {
+        font-size: .9rem;
+    }
+
+    .avaliacoes-buttom a {
+        font-size: 1rem;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-title {
+        font-size: 5rem;
+    }
+
+    .localizacao-informacao-title {
+        font-size: 1.37rem;
+    }
+
+    .localizacao-informacao-locais img {
+        width: 14px;
+    }
+
+    .localizacao-informacao-locais a {
+        font-size: .9rem;
+    }
+
+    /* BOTÃO DE VOLTAR PARA O INÍCIO */
+
+    .btn-topo img {
+        width: 30px;
+    }
+
+}
+
+@media (max-width: 800px) {
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-informacao-title {
+        font-size: 1.15rem;
+    }
+
+    .localizacao-informacao-locais a {
+        font-size: .8rem;
+    }
+
+}
+
+@media (max-width: 760px) {
+
+    /* MENU */
+
+    /* INÍCIO */
+
+    /* RECEITAS */
+
+    .receitas-card {
+        width: 190px;
+        height: 260px;
+    }
+
+    .receitas-card img {
+        width: 100%;
+        height: 120px;
+    }
+
+    .receitas-card-informacao {
+        padding: 5px;
+    }
+
+    .receitas-card-horario {
+       display: none;
+    }
+
+    .receitas-card-title {
+        font-size: 1.4rem;
+        margin-bottom: 6px;
+    }
+
+    .receitas-card-text {
+        font-size: .7rem;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem-somos-c {
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .quem-somos-img img {
+        width: 120px;
+        margin: 0px;
+        padding-bottom: 50px;
+    }
+
+    .quem-somos-description {
+        padding-bottom: 40px;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-c {
+        flex-direction: column;
+    }
+
+    .avaliacoes-nota {
+        padding: 0px;
+    }
+
+    .avaliacoes-nota h3 {
+        padding: 0px;
+    }
+
+    .avaliacoes-nota img {
+        padding-bottom: 40px;
+    }
+
+    .avaliacoes-card {
+        width: 190px;
+        height: 240px;
+    }
+
+    .avaliacoes-card-comentario {
+        font-size: .7rem;
+        padding: 18px;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-informacao-title {
+        text-align: center;
+    }
+
+    /* FOOTER */
+
+    .footer-logo img {
+        width: 90px;
+    }
+
+    .footer-informacao {
+        margin: 20px 30px;
+    }
+
+    .footer-rede-social {
+        width: 90px;
+    }
+
+    .footer-contato-btn {
+        padding: 5px 18px;
+    }
+}
+
+
+
+
+
+@media (max-width: 700px) {
+
+    /* MENU */
+
+    .menu-logo-img {
+        width: 60px;
+    }
+
+    .menu-logo-text {
+        font-size: .8rem;
+    }
+
+    .nav-link {
+        font-size: .8rem;
+        margin: 12px;
+    }
+
+    .btn-contato {
+        font-size: .8rem;
+    }
+    
+
+    /* INÍCIO */
+
+
+    /* RECEITAS */
+
+    .receitas-title {
+        font-size: 4rem;
+    }
+
+    .receitas-c {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .receitas-card {
+        width: 190px;
+        height: 260px;
+        margin: 0px 20px;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem-somos-title {
+        font-size: 4rem;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-title {
+        font-size: 4rem;
+    }
+
+    .avaliacoes-nota h3 {
+        font-size: 4rem;
+    }
+
+    .avaliacoes-nota img {
+        width: 25px;
+    }
+
+    .avaliacoes-card-c {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .avaliacoes-card {
+        margin: 50px 20px;
+    }
+
+    /* LOCALIZACÃO */
+
+    .localizacao-title {
+        font-size: 4rem;
+    }
+
+    .localizacao-informacao-title {
+        font-size: 1.2rem;
+    }
+
+    .localizacao-informacao-locais a {
+        font-size: .7rem;
+    }
+
+    /* FOOTER */
+
+    .footer-logo img {
+        width: 90px;
+    }
+
+    .footer-informacao {
+        margin: 20px;
+    }
+
+}
+
+
+@media (max-width: 640px) {
+
+    /* MENU */
+
+    .nav-link {
+        margin: 0px 12px;
+    }
+
+    .btn-contato {
+        display: none;
+    }
+
+    /* INÍCIO */
+
+
+    /* RECEITAS */
+
+    .receitas-title {
+        font-size: 3.5rem;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem-somos-title {
+        font-size: 3.5rem;
+    }
+
+    .quem-somos-subtitle {
+        font-size: 1.5rem;
+    }
+
+    .quem-somos-subtitle span {
+        font-size: 2.5rem;
+    }
+
+    .quem-somos-description {
+        font-size: .82rem;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-title {
+        font-size: 3.5rem;
+    }
+
+    .avaliacoes-nota h3 {
+        font-size: 3rem;
+        margin-bottom: 10px;
+    }
+
+    .avaliacoes-5-estrelas h4 {
+        font-size: 1rem;
+    }
+
+    .avaliacoes-barra-total {
+        width: 350px;
+        height: 8px;
+    }
+
+    .avaliacoes-barra-estrelas {
+        height: 8px;
+    }
+    
+    .avaliacoes-card-title {
+        font-size: 2rem;
+        margin: 40px 0px;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-title {
+        font-size: 3.5rem;
+    }
+
+    .localizacao-card {
+        flex-direction: column;
+        padding: 50px 0px 30px 0px;
+    }
+
+    .localizacao-map iframe {
+        width: 100%;
+        margin-bottom: 40px;
+        margin-right: 0px;
+    }
+
+    .localizacao-informacao {
+        margin: 0px;
+    }
+
+    .localizacao-informacao-title {
+        font-size: 1.5rem
+    }
+
+    .localizacao-informacao-locais a {
+        font-size: .8rem;
+    }
+
+    /* FOOTER */
+
+    .footer-c {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer-logo img {
+        width: 120px;
+    }
+
+    .footer-informacoes {
+        gap: 50px;
+        margin: 20px 0px;
+    }
+
+    .footer-informacao h2 {
+        font-size: .9rem;
+    }
+
+    .footer-rede-social {
+        width: 150px;
+    }
+
+    .footer-informacao a {
+        font-size: .74rem;
+    }
+
+    .footer-contato-btn {
+        padding: 5px 48px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 500px) {
+
+    /* MENU */
+
+    .menu {
+        padding: 5px 10px;
+    }
+
+    .menu-logo-img {
+        width: 50px;
+    }
+
+    .nav-link {
+        font-size: .75rem;
+        margin: 12px;
+    }
+
+    /* INÍCIO */
+
+    /* RECEITAS */
+
+    .receitas-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 300px;
+        height: 350px;
+        margin: 0px;
+    }
+
+    .receitas-card-img img {
+        height: 200px;
+        padding: 5px;
+        border: 20px solid  #ABA891;
+    }
+
+    .receitas-card-horario {
+        display: inline-block;
+        font-size: 1rem;
+        background-color: #ABA891;
+        color: #ffffff;
+        padding: 4px 20px;
+        border-radius: 25px;
+        margin: 5px 0px 0px 0px;
+    }
+
+    .receitas-card-title {
+        font-size: 2rem;
+        margin: 10px 0px 5px 0px;
+    }
+
+    .receitas-card-text {
+        display: none;
+        font-size: .8rem;
+    }
+
+    .receitas-card-buttom {
+        font-size: .8rem;
+    }
+
+    #card-4, 
+    #card-5,
+    #card-6 {
+        display: none;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-nota h3 {
+        font-size: 2.8rem;
+        margin-bottom: 10px;
+    }
+
+    .avaliacoes-5-estrelas h4 {
+        font-size: .9rem;
+    }
+
+    .avaliacoes-barra-total {
+        width: 300px;
+        height: 6px;
+    }
+
+    .avaliacoes-barra-estrelas {
+        height: 6px;
+    }
+    
+    .avaliacoes-card-title {
+        font-size: 1.8rem;
+        margin: 40px 0px;
+    }
+
+    .avaliacoes-card {
+        width: 300px;
+        height: 220px;
+        margin: 50px 0px;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-informacao-title {
+        font-size: 1.4rem;
+    }
+
+    /* FOOTER */
+
+    .footer-logo img {
+        width: 150px;
+    }
+
+    .footer-informacoes {
+        flex-direction: column;
+        gap: 0px;
+    }
+
+    .footer-informacao {
+        margin: 15px 0px;
+        text-align: center;
+    }
+
+    .footer-informacao h2 {
+        font-size: 1.1rem;
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width: 450px) {
+    
+    /* MENU */
+
+    .menu {
+        flex-direction: column;
+        padding: 0px 10px;
+    }
+
+    .menu-logo-img {
+        margin: 10px 0px;
+    }
+
+    .nav-link {
+        margin: 5px 12px;
+    }
+
+    /* INÍCIO */
+
+    /* QUEM SOMOS */
+
+    .quem-somos-title {
+        font-size: 3rem;
+    }
+
+    .quem-somos-subtitle span {
+        font-size: 2.2rem;
+    }
+
+    .quem-somos-description {
+        font-size: .8rem;
+    }
+
+    .quem-somos-img img {
+        width: 90px;
+    }
+
+    /* RECEITAS */
+
+    .receitas-title {
+        font-size: 3rem;
+    }
+
+    /* AVALIAÇÕES */
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-card {
+        padding: 40px 20px;
+    }
+
+    /* FOOTER */
+
+}
+
+@media (max-width: 390px) {
+
+    /* MENU */
+
+    .nav-link {
+        font-size: .65rem;
+        margin: 5px 10px;
+    }
+
+    /* INÍCIO */
+
+    /* RECEITAS */
+
+    /* QUEM SOMOS */
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-barra-total {
+        width: 250px;
+        height: 6px;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    /* FOOTER */
+
+    
+}
+
+@media (max-width: 340px) {
+
+    /* MENU */
+
+    .nav-link {
+        font-size: .55rem;
+        margin: 5px 10px;
+    }
+
+    /* INÍCIO */
+
+
+    /* RECEITAS */
+
+    .receitas-title {
+        font-size: 2.7rem;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem-somos-title {
+        font-size: 2.7rem;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-title {
+        font-size: 2.7rem;
+    }
+
+    .avaliacoes-barra-total {
+        width: 235px;
+        height: 6px;
+    }
+
+    .avaliacoes-barra-estrelas {
+        height: 6px;
+    }
+
+    .avaliacoes-card-title {
+        font-size: 1.5rem;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-title {
+        font-size: 2.7rem;
+    }
+
+    .localizacao-informacao-title {
+        font-size: 1.2rem;
+    }
+
+    .localizacao-informacao-locais img {
+        width: 12px;
+    }
+
+    .localizacao-informacao-locais a {
+        font-size: .7rem;
+        padding-left: 5px;
+    }
+    
+}
+
+@media (max-width: 300px) {
+
+    /* MENU */
+
+    .nav-link {
+        font-size: .45rem;
+        margin: 4px 8px;
+    }
+
+    /* INÍCIO */
+
+    .inicio-hr {
+        width: 100px;
+    }
+
+    /* RECEITAS */
+
+    .receitas-title {
+        font-size: 2.2rem;
+    }
+
+    .receitas-hr {
+        width: 100px;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem-somos-title {
+        font-size: 2.2rem;
+    }
+
+    .quem-somos-hr {
+        width: 100px;
+    }
+
+    /* AVALIAÇÕES */
+
+    .avaliacoes-title {
+        font-size: 2.2rem;
+    }
+
+    .avaliacoes-barra-total {
+        width: 180px;
+        height: 6px;
+    }
+
+    .avaliacoes-barra-estrelas {
+        height: 6px;
+    }
+
+    .avaliacoes-card-title {
+        font-size: 1.2rem;
+    }
+
+    .avaliacoes-hr {
+        width: 100px;
+    }
+
+    /* LOCALIZAÇÃO */
+
+    .localizacao-title {
+        font-size: 2.2rem;
+    }
+    
+}
