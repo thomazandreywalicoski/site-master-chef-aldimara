@@ -185,7 +185,10 @@ li {
     margin-bottom: 80px;
 }
 
-.inicio-btn {
+.inicio-btn a {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
     background-color: rgba(0, 0, 0, 0.459);
     border: 2px solid #fff;
     padding: 10px 20px;
@@ -198,8 +201,9 @@ li {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.inicio-img {
-    width: 400px;
+.inicio-btn img{
+    width: 25px;
+    filter: invert(100%);
 }
 
 .inicio-hr {
@@ -250,6 +254,8 @@ li {
 .receitas-card-img img {
     width: 100%;
     height: 190px;
+    padding: 5px;
+    border: 20px solid  #ABA891;
 }
 
 .receitas-card-informacao {
