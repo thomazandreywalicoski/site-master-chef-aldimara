@@ -835,15 +835,3 @@
     }
     
 }
-
-/* MOBILE ALTURA */
-
-@media (min-height: 1200px) {
-
-    /* INÍCIO */
-
-    .inicio-c {
-        height: 60vh;
-    }
-    
-}
