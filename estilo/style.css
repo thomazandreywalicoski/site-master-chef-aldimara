@@ -701,23 +701,29 @@ li {
 }
 
 .footer-copyright {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: #141313;
 }
 
-.footer-copyright img {
+.footer-copyright-c {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-copyright-c img {
     width: 12px;
+    height: 12px;
     filter: invert(100%);
 }
 
-.footer-copyright h3 {
+.footer-copyright-c h3 {
     font-family: var(--font-site);
     color: #fff;
     font-size: .7rem;
     font-weight: 400;
-    padding: 8px;
+    padding: 10px;
 }
 
 /* BOTÃO DE VOLTAR PARA O INÍCIO */
